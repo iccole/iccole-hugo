@@ -2,7 +2,6 @@
 title = "Home"
 menu = "main"
 weight = 1
-layout = 'custom_head'
 +++
 
 # welcome to my page ✨
