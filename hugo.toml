@@ -1,6 +1,7 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://example.com"
+baseURL = "https://iccole.github.io/iccole-hugo/"
+canonifyURLs = "true"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
@@ -64,3 +65,7 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

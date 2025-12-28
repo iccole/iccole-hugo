@@ -2,6 +2,7 @@
 title = "Home"
 menu = "main"
 weight = 1
+url = ''
 +++
 
 # welcome to my page ✨
