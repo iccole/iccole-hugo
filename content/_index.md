@@ -16,4 +16,4 @@ Eventually I'll have something more interesting to say.
 ## this site
 I miss boring, static pages. This 'blog' runs on Go using the Hugo Bear theme, but I've built web applications with hundreds of thousands of DAUs.
 
-[Go see my resume](/pdf/Isaiah%20Resume%20-%202025.pdf).
+[Go see my resume](pdf/Isaiah%20Resume%20-%202025.pdf).
