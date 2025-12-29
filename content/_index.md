@@ -14,6 +14,6 @@ I'm a **full-stack** and **DevOps engineer** with **12+** years of experience. I
 Eventually I'll have something more interesting to say.
 
 ## this site
-I miss boring, static pages. This 'blog' runs on Go using the Hugo Bear theme, but I've built web applications with hundreds of thousands of DAUs.
+I miss boring, static pages. This static 'blog' was built using Go and the Hugo Bear theme, but I've built dynamic web applications with hundreds of thousands of DAUs.
 
 [Go see my resume](pdf/Isaiah%20Resume%20-%202025.pdf).
