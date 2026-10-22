@@ -7,7 +7,7 @@ url = ''
 
 # welcome to my page ✨
 
-I'm a **platform engineer** and **backend engineering lead** with **12+** years of experience across infrastructure and backend development. I've worked in fortune 500, early-stage startups, and higher education. I made my start working in EdTech, but presently focus on digital humanities projects.
+I'm a **DevOps & Backend engineer** with **12+** years of experience across infrastructure and backend development. I've worked in fortune 500, early-stage startups, and higher education. I made my start working in EdTech, but presently focus on digital humanities projects.
 
 Day to day I mostly work with **Kubernetes** and **Helm**, running workloads across **hybrid cloud and on-prem** environments. That means packaging apps so they deploy the same way whether they land on a managed cloud cluster or hardware in a server room, and keeping the pipelines, upgrades, and plumbing between them boring and reliable.
 
